@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-plugin-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/releases/com/github/kr328/golang/gradle-plugin/1.0.4/gradle-plugin-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
